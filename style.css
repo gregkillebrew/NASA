@@ -1,0 +1,35 @@
+body {
+    width: 850px;
+    margin: 0 auto;
+  }
+  main{
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        height: 450px;
+        background-image: url(space2.jpg);
+        background-size: cover;
+        background-position: center;
+        width: 850px;
+        margin: 0 auto;
+  }
+  
+    section{
+        display: flex;
+        justify-content: space-between; 
+        height: 324px;        
+        padding-left: 20px;
+        padding-right: 20px;
+        background-color: #E6E6E6;
+}
+
+    h1{
+        font-size: 80px;
+        font-family: 'Rubik', sans-serif;
+        color: white;
+}
+
+    h2{
+        font-family: 'Kanit', sans-serif;
+        color: black;
+}
